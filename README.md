@@ -38,5 +38,10 @@ automated-price-tracker.py
 - Recomendado utilizar com moderação para evitar bloqueios
 
 ## 👤 Autor
-Matheus Santos  
-GitHub: https://github.com/MatheusDevlog
+
+**Matheus Santos**
+
+* LinkedIn: https://www.linkedin.com/in/matheusdevsantos/
+* GitHub: https://github.com/MatheusDevlog
+* Email: [contato.matheusdevlog@gmail.com](mailto:contato.matheusdevlog@gmail.com)
+* 
